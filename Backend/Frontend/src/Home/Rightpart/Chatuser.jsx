@@ -22,7 +22,7 @@ const Chatuser = () => {
         <div className='flex justify-center space-x-3 h-[8vh] bg-slate-800 hover:bg-gray-700 duration-300'>
             <div className="avatar online">
                 <div className="w-16 rounded-full">
-                    <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2A1WfO0dN2giiE4ggozrg00TrLaEf6kYZA&s.jpg" />
                 </div>
             </div>
             <div>

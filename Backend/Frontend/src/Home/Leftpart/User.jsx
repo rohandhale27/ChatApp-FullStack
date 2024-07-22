@@ -16,7 +16,7 @@ const User = ({ user }) => {
       <div className="flex space-x-4 px-6 py-3 cursor-pointer">
         <div className={`avatar ${isOnline?"online":""} `}> 
           <div className="w-12 rounded-full">
-            <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" alt="User Avatar" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2A1WfO0dN2giiE4ggozrg00TrLaEf6kYZA&s" alt="User Avatar" />
           </div>
         </div>
         <div>
